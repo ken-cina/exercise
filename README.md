@@ -4,4 +4,4 @@ Today we test to push some files to our personal repository.
 
 Consolidation of Jupyter python had been uploaded.
 
-![img](image/60c9d8ba50b60.jpg)
+![img](../image/60c9d8ba50b60.jpg)
