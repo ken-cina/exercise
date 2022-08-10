@@ -1,0 +1,8 @@
+FROM openjdk:11-jre
+
+#COPY target/northwind-0.0.1-SNAPSHOT.jar app.jar
+COPY target/financial_portfolio-0.0.1-SNAPSHOT.jar app.jar
+
+EXPOSE 8080
+
+ENTRYPOINT ["java", "-jar", "/app.jar"]
